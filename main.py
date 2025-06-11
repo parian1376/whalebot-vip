@@ -1,0 +1,1 @@
+print('WhaleBot VIP is running...')
